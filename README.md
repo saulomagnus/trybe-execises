@@ -1,2 +1,3 @@
-# trybe-execises
-Mues queridos exercícios que tanto me queimaram miolos
+# Meu repositório de exercícios
+
+Meus queridos exercícios que tanto me queimaram miolos
