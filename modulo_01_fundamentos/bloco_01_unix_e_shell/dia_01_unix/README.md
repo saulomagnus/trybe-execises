@@ -1,4 +1,4 @@
-# DIA 1
+# DIA 1 :white_check_mark:
 
 O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre o UNIX.
 
