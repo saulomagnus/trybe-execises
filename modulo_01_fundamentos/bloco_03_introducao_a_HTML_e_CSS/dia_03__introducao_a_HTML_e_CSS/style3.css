@@ -2,6 +2,6 @@ h1, p {
     text-align: center;
 }
 
-li {
-    
+li:hover {
+    background-color: red;
 }
