@@ -16,9 +16,12 @@ div:nth-of-type(2) {
     color: white;
 }
 
+/* Personaliza a terceira div como a maior entre as divs */
+
 div:nth-of-type(3) {
     background-color: red;
     color: white;
+    height: 50px;
 }
 
 div:nth-of-type(4) {
@@ -53,8 +56,8 @@ div:nth-of-type(5) > h3 {
     font-size: larger;
 }
 
-/* Personaliza a terceira div como a maior entre as divs */
+/* Estiliza as h3 ímpares através da pseudoclasse nth-child e da característica odd */
 
-div:nth-of-type(3) {
-    height: 50px;
+div:nth-child(odd) h3 {
+    font-style: italic;
 }
