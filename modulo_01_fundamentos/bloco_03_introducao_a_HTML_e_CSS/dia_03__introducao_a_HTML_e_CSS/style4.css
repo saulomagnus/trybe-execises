@@ -1,4 +1,5 @@
-h3:hover {
-    border: 2px;
-    border-color: red;
+/* Cria borda para quando o mouse passar por cima das divs */
+
+div:hover {
+    border: 2px solid red;
 }
