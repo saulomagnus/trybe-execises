@@ -1,5 +1,7 @@
 h1 {
-    text-align: center;
+    text-align: left;
+    position: absolute;
+    left: 215px;
 }
 
 ul {
@@ -17,6 +19,7 @@ ul {
     /* Coloca no centro o bloco da equipe 1 */
     display: block;
     position: absolute;
+    top: 79px;
     left: 250px;
 }
 
