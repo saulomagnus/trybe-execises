@@ -4,3 +4,11 @@ header {
     color: blueviolet;
     font-weight: bolder;
 }
+
+nav li {
+    display: inline-block;
+    color: blue;
+    font-weight: bolder;
+    width: 100px;
+    text-align: center;
+}
