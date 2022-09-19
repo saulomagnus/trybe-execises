@@ -13,6 +13,11 @@ ul {
     height: 50px;
     text-align: center;
     width: 200px;
+
+    /* Coloca no centro o bloco da equipe 1 */
+    display: block;
+    position: absolute;
+    left: 250px;
 }
 
 .second {
@@ -21,6 +26,11 @@ ul {
     height: 50px;
     text-align: center;
     width: 300px;
+    
+    /* Posiciona o bloco da equipe 2 */
+    display: inline-block;
+    position: absolute;
+    top: 130px;
 }
 
 .third {
@@ -29,4 +39,10 @@ ul {
     height: 50px;
     text-align: center;
     width: 300px;
+    
+    /* Posiciona o bloco da equipe 3 */
+    display: inline-block;
+    position: absolute;
+    top: 130px;
+    left: 350px;
 }
