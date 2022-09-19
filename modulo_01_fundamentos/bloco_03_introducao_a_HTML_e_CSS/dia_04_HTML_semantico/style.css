@@ -49,3 +49,14 @@ ul {
     top: 130px;
     left: 350px;
 }
+
+/* Corrige a posição da seção 2, centraliza os elementos e formata o display para o tipo inline-block */
+section:nth-of-type(2) {
+    position: absolute;
+    top: 200px;
+    text-align: center;
+}
+
+section:nth-of-type(2) li {
+    display: inline-block;
+}
