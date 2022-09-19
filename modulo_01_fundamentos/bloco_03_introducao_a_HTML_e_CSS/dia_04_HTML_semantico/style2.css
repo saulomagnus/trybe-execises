@@ -12,3 +12,10 @@ nav li {
     width: 100px;
     text-align: center;
 }
+
+article header {
+    text-align: left;
+    font-size: 16px;
+    color: blueviolet;
+    font-weight: bold;
+}
