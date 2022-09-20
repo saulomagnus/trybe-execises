@@ -43,3 +43,8 @@ ul li {
     margin-right: auto;
     width: 40%;
 }
+
+footer {
+    font-weight: bold;
+    font-size: small;
+}
