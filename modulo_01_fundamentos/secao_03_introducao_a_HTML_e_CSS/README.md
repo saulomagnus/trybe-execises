@@ -1,6 +1,6 @@
-# Bloco 03 - Introdução a HTML e CSS
+# Seção 03 - Introdução a HTML e CSS
 
-Esse bloco pertence ao módulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/). Nesse bloco, aprendi os primeiros passos nas linguagens de HTML e CSS. A partir de alguns exercício, aprendi a formatar páginas em HTML e CSS. Alguns dos conteúdos envolvidos:
+Esse bloco pertence ao módulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/). Nesse bloco, aprendi os primeiros passos nas linguagens de HTML e CSS. A partir de alguns exercícios, aprendi a formatar páginas em HTML e CSS. Alguns dos conteúdos envolvidos:
 
 - Dia 01 - _HTML & CSS - Estruturas de página_
 - Dia 02 - _HTML & CSS - Primeiros passos em CSS_
