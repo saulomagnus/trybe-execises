@@ -1,0 +1,41 @@
+Algoritmo para me vestir para uma festa
+
+- Se não tiver tomado banho, então
+  - Tomar banho
+- Se sim, então
+  - Me dirigir até o guarda-roupa
+  - Abrir a gaveta de cuecas
+  - Escolher uma cueca
+  - Tirar a cueca da gaveta
+  - Colocar a cueca sobre a cama
+  - Fechar a gaveta de cuecas
+  - Abrir o guarda-roupa
+  - Escolher uma camisa
+  - Tirar a camisa do guarda-roupa
+  - Colocar a camisa sobre a cama
+  - Escolher um short 
+  - Tirar o short do guarda-roupa
+  - Colocar o short sobre a cama
+  - Escolher acessórios
+  - Tirar os acessórios do guarda-roupa
+  - Colocar os acessórios na cama
+  - Se estiver de toalha, então
+    - Tirar a toalha
+    - Guardar a toalha
+  - Vestir a cueca
+  - Vestir o short
+  - Vestir a camisa
+  - Olhar no espelho
+  - Se ficar não ficar bom, então
+    Volte ao passo da linha 7
+  - Me dirigir ao sapateiro
+  - Abrir o sapateiro
+  - Escolher um par de sapatos
+  - Tirar o par de sapatos do sapateiro
+  - Escolher um par de meias
+  - Tirar o par de meias do sapateiro
+  - Fechar o sapateiro
+  - Calçar as meias
+  - Calçar os sapatos
+  - Pronto!
+  
