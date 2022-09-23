@@ -19,7 +19,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - Dia 02 - _Git & GitHub - Entendendo os comandos_
 - Dia 03 - _Internet - Entendendo como ela funciona_
 
-#### Seção 03 - Introdução a HTML e CSS :hourglass_flowing_sand:
+#### Seção 03 - Introdução a HTML e CSS :white_check_mark:
 - Dia 01 - _HTML & CSS - Estruturas de página_
 - Dia 02 - _HTML & CSS - Primeiros passos em CSS_
 - Dia 03 - _HTML & CSS - Seletores e posicionamento_
@@ -28,3 +28,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 #### Seção 04 - Introdução a HTML e CSS :hourglass_flowing_sand:
 - Dia 01 - _Introdução - JavaScript_
 - Dia 02 - _JavaScript - Array e Loop For_
+- Dia 03 - _JavaScript - Lógica de Programação e Algoritmos_
