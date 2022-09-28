@@ -25,8 +25,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - Dia 03 - _HTML & CSS - Seletores e posicionamento_
 - Dia 04 - _HTML & CSS - HTML Semântico_
 
-#### Seção 04 - Introdução a HTML e CSS :hourglass_flowing_sand:
+#### Seção 04 - Introdução a HTML e CSS :white_check_mark:
 - Dia 01 - _Introdução - JavaScript_
 - Dia 02 - _JavaScript - Array e Loop For_
 - Dia 03 - _JavaScript - Lógica de Programação e Algoritmos_
 - Dia 04 - _JavaScript - Objetos e Funções_
+
+#### Seção 05 - JavaScript: DOM, Eventos e Web Storage :hourglass_flowing_sand:
+- Dia 01 - _JavaScript - DOM e seletores_
