@@ -21,20 +21,30 @@ for (let index = 0; index < lis.length; index += 1) {
   clicado.addEventListener('click', techClass);
 }
 
-// - Crie uma função que, ao digitar na caixa de texto, altere o texto do elemento
-// com a classe 'tech';
+// - Crie uma função que, ao digitar na caixa de texto, altere o texto do elemento com a classe 'tech';
 
+input.addEventListener('input', function(event) {
+  const techElement = document.querySelector('.tech');
+  techElement.innerText = event.target.value;
+});
 
-
-// - Crie uma função que, ao clicar duas vezes em 'Meu top 3 do Spotrybefy', ele
-// redirecione para alguma página;
+// - Crie uma função que, ao clicar duas vezes em 'Meu top 3 do Spotrybefy', ele redirecione para alguma página;
 //  - Que tal redirecionar para seu portfólio?
 
-// - Crie uma função que, ao passar o mouse sobre 'Meu top 3 do Spotrybefy', altere
-// a cor do mesmo;
+myWebpage.addEventListener('dblclick', function() {
+  window.location.replace('https://blog.betrybe.com/');
+})
+
+// - Crie uma função que, ao passar o mouse sobre 'Meu top 3 do Spotrybefy', altere a cor do mesmo;
+
+myWebpage.addEventListener('mouseover', function(){
+  myWebpage.style.color = 'blue';
+})
+myWebpage.addEventListener('mouseout', function(){
+  myWebpage.style.color = 'white';
+})
 
 // Segue abaixo um exemplo do uso de event.target:
-
 
 function resetText(event) {
   // O Event é passado como um parâmetro para a função.
