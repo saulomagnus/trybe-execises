@@ -34,3 +34,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 #### Seção 05 - JavaScript: DOM, Eventos e Web Storage :hourglass_flowing_sand:
 - Dia 01 - _JavaScript - DOM e seletores_
 - Dia 02 - _JavaScript - Trabalhando com elementos_
+- Dia 03 - _JavaScript - Eventos_
